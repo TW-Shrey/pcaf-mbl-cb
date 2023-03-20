@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "couchbase-lite-swift-ee",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/couchbase/couchbase-lite-swift-ee.git",
+      "state" : {
+        "revision" : "ee2fb1bdefffdd87b5622cf0bbcff275421b9e6c",
+        "version" : "3.0.2"
+      }
+    },
+    {
+      "identity" : "pcaf-mbl-sf-intfc-pkg",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TW-Shrey/pcaf-mbl-sf-intfc-pkg.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c66ef1efa124e0c063f8da0fe1273b2f3c8b9746"
+      }
+    }
+  ],
+  "version" : 2
+}
