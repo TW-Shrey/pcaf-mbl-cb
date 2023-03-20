@@ -7,7 +7,7 @@ public struct CouchbaseManager {
         self.authManager = authManager
     }
     
-    func getAccounts() -> [String]{
+   public func getAccounts() -> [String]{
         return ["Store1","Store2","Store3","Store4"]
     }
 }
