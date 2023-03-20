@@ -3,7 +3,7 @@ import pcaf_mbl_sf_intfc_pkg
 public struct CouchbaseManager {
     let authManager: AuthManagerProtocol
     
-    init(authManager: AuthManagerProtocol){
+   public init(authManager: AuthManagerProtocol){
         self.authManager = authManager
     }
     
